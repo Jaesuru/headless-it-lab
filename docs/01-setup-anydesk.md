@@ -7,7 +7,7 @@
 - And one more thing, the intended desktop that will be headless later on, will first have to have a method of display, so... grab a monitor, mouse, keyboard, and HDMI dummy header for these next few steps. You won't need them after though!
 ---
 
-## 1. Install AnyDesk
+## 1. Install AnyDesk (on the computer you're going to remote desktop into)
 1. Download from [anydesk.com/download](https://anydesk.com/download).
 2. Run the installer **as Administrator**.
 3. During setup, select:
