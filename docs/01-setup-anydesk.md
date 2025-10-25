@@ -1,9 +1,10 @@
 # AnyDesk Setup
-<p>This part explains the first steps in this project on how I conigured **AnyDesk** to manage my headless Windows desktop completely remotely. All you have to do is turn the computer on, and use another computer (in my case, a MacBook air) to remote into it. 
+
+- This part explains the first steps in this project on how I conigured **AnyDesk** to manage my headless Windows desktop completely remotely. All you have to do is turn the computer on, and use another computer (in my case, a MacBook air) to remote into it. 
 <br><br>
-Before we get started, this part is **optional**, but its fun little part that gets you familiarized with remote desktop configurations and using tools that are used in real-world environments. It also just saves space in my room, personally. 
+- Before we get started, this part is **optional**, but its fun little part that gets you familiarized with remote desktop configurations and using tools that are used in real-world environments. It also just saves space in my room, personally. 
 <br><br>
-And one more thing, the intended desktop that will be headless later on, will first have to have a method of display, so... grab a monitor, mouse, keyboard, and HDMI dummy header for these next few steps. You won't need them after though!</p>
+- And one more thing, the intended desktop that will be headless later on, will first have to have a method of display, so... grab a monitor, mouse, keyboard, and HDMI dummy header for these next few steps. You won't need them after though!
 ---
 
 ## 1. Install AnyDesk
