@@ -45,5 +45,7 @@ Because I didn't have access to enterprise-level equipment, creating a homelab w
 
 ## Author
 **Jason Jiang**
+<br>
 jiang.jason03@gmail.com
+<br>
 [LinkedIn Profile](https://wwww.linkedin.com/in/jasonjiangexperience)
