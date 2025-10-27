@@ -18,6 +18,7 @@ Because I didn't have access to enterprise-level equipment, creating a homelab w
 | Section | Description |
 |----------|-------------|
 | [01 - AnyDesk Setup](docs/01-setup-anydesk.md) | Installing and configuring AnyDesk as a system service |
+| [02 - VirtualBox Server Domain Controller Setup](docs/02-server-dc-vm.md) | Installing and configuring a server for handling services | 
 
 --- 
 
