@@ -37,7 +37,8 @@ Because I didn't have access to enterprise-level equipment, creating a homelab w
 ---
 
 ## Tools Used
-- Windows 10 Home Edition (Headless system & choice of OS for VMs)
+- Windows 10 Home Edition (Headless system & choice of OS for VMs) - Type 2
+- Windows Server 2019/2022
 - AnyDesk (RDP)
 - PowerShell & Bash (w/ macOS)
 - HDMI Dummy Plug (most computers won't display anything when it isn't connected to a output source)
